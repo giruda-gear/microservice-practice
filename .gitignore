@@ -1,3 +1,10 @@
 .DS_store
 
 venv/
+
+secret.yaml
+
+__pycache__
+
+*.mp4
+*.mp3
